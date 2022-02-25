@@ -1,0 +1,64 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+}
+.layout 
+{
+    width: 100%;
+    min-height: 300px;
+}
+.layout2
+{}
+.gradient 
+{
+    position:relative;
+    background: linear-gradient(180deg, #00CBA9, #0b6657);
+}
+.title
+{
+    padding: 100px 0;
+    border: 3px;
+    text-align: center;
+    color: rgb(252, 252, 252);
+    font-family: sans-serif;
+    font-weight: 100;
+}
+svg 
+{
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
+.wave 
+  {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    vertical-align: middle;
+    overflow: hidden;
+  }
+  section
+  {
+    margin: 100px;
+  }
+  .sectiont
+    {
+        color: #1b7c6c
+    }
+    .sc2
+    {
+        text-align: right;
+    }
+  .p1
+  {
+    text-align: left;
+  }
+  .p2
+  {
+      text-align: right;
+  }
